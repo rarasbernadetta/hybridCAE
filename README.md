@@ -1,4 +1,4 @@
-<img width="468" height="60" alt="image" src="https://github.com/user-attachments/assets/ff897cc6-4bd5-4560-95a4-5115ec7ffddc" /># hybridCAE
+
 
 This hybridCAE repository includes:  
 
